@@ -1,0 +1,42 @@
+U:\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbprojAssemblyReference.cache
+U:\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.frmMarks.resources
+U:\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.Resources.resources
+U:\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.GenerateResource.cache
+U:\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.CoreCompileInputs.cache
+U:\FCOM101\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe.config
+U:\FCOM101\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe
+U:\FCOM101\StudentMarks\StudentMarks\bin\Debug\StudentMarks.pdb
+U:\FCOM101\StudentMarks\StudentMarks\bin\Debug\StudentMarks.xml
+U:\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.exe
+U:\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.xml
+U:\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.pdb
+U:\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbprojAssemblyReference.cache
+U:\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.frmMarks.resources
+U:\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.Resources.resources
+U:\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.GenerateResource.cache
+U:\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.CoreCompileInputs.cache
+U:\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.exe
+U:\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.xml
+U:\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.pdb
+U:\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe.config
+U:\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe
+U:\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\bin\Debug\StudentMarks.pdb
+U:\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\bin\Debug\StudentMarks.xml
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.AssemblyReference.cache
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.SuggestedBindingRedirects.cache
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.frmMarks.resources
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.Resources.resources
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.GenerateResource.cache
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.CoreCompileInputs.cache
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.exe
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.xml
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\StudentMarks\StudentMarks\obj\Debug\StudentMarks.pdb
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.AssemblyReference.cache
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.SuggestedBindingRedirects.cache
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\StudentMarks\StudentMarks\obj\Debug\StudentMarks.FrmMarks.resources
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\StudentMarks\StudentMarks\obj\Debug\StudentMarks.Resources.resources
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.GenerateResource.cache
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.CoreCompileInputs.cache
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\StudentMarks\StudentMarks\obj\Debug\StudentMarks.exe
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\StudentMarks\StudentMarks\obj\Debug\StudentMarks.xml
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\StudentMarks\StudentMarks\obj\Debug\StudentMarks.pdb

@@ -1,0 +1,49 @@
+c:\users\abid ijaz khan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\abid ijaz khan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSavings.resources
+c:\users\abid ijaz khan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\abid ijaz khan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\abid ijaz khan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\abid ijaz khan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\abid ijaz khan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\abid ijaz khan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\abid ijaz khan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\abid ijaz khan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+U:\FCOM101\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+U:\FCOM101\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+U:\FCOM101\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+U:\FCOM101\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+U:\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+U:\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSavings.resources
+U:\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+U:\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+U:\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+U:\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+U:\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+U:\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSavings.resources
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\FCOM101\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSavings.resources
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\oudom\OneDrive\Desktop\Student Marks VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\oudom\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+C:\Users\oudom\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\oudom\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSavings.resources
+C:\Users\oudom\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\oudom\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\oudom\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\oudom\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\oudom\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\oudom\OneDrive\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
