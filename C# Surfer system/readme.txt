@@ -1,0 +1,1 @@
+Double click the Solution file to open the Visual Studio project
