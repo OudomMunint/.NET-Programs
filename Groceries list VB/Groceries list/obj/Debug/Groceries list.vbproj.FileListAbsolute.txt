@@ -1,0 +1,31 @@
+c:\users\c3313933\source\repos\Groceries list\Groceries list\bin\Debug\Groceries list.exe.config
+c:\users\c3313933\source\repos\Groceries list\Groceries list\bin\Debug\Groceries list.exe
+c:\users\c3313933\source\repos\Groceries list\Groceries list\bin\Debug\Groceries list.pdb
+c:\users\c3313933\source\repos\Groceries list\Groceries list\bin\Debug\Groceries list.xml
+c:\users\c3313933\source\repos\Groceries list\Groceries list\obj\Debug\Groceries list.vbprojAssemblyReference.cache
+c:\users\c3313933\source\repos\Groceries list\Groceries list\obj\Debug\Groceries_list.frmGroceries.resources
+c:\users\c3313933\source\repos\Groceries list\Groceries list\obj\Debug\Groceries_list.Resources.resources
+c:\users\c3313933\source\repos\Groceries list\Groceries list\obj\Debug\Groceries list.vbproj.GenerateResource.cache
+c:\users\c3313933\source\repos\Groceries list\Groceries list\obj\Debug\Groceries list.vbproj.CoreCompileInputs.cache
+c:\users\c3313933\source\repos\Groceries list\Groceries list\obj\Debug\Groceries list.exe
+c:\users\c3313933\source\repos\Groceries list\Groceries list\obj\Debug\Groceries list.xml
+c:\users\c3313933\source\repos\Groceries list\Groceries list\obj\Debug\Groceries list.pdb
+U:\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.vbprojAssemblyReference.cache
+U:\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.exe
+U:\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.xml
+U:\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.pdb
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.vbproj.AssemblyReference.cache
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.vbproj.SuggestedBindingRedirects.cache
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.exe
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.xml
+C:\Users\oudom\Desktop\Uni stuff\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.pdb
+C:\Users\oudom\OneDrive\Documents\Uni stuff laptop backup\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.vbproj.AssemblyReference.cache
+C:\Users\oudom\OneDrive\Documents\Uni stuff laptop backup\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.vbproj.SuggestedBindingRedirects.cache
+C:\Users\oudom\OneDrive\Documents\Uni stuff laptop backup\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.exe
+C:\Users\oudom\OneDrive\Documents\Uni stuff laptop backup\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.xml
+C:\Users\oudom\OneDrive\Documents\Uni stuff laptop backup\Trimester 1 Foundation\Groceries list\Groceries list\obj\Debug\Groceries list.pdb
+C:\Users\oudom\OneDrive\Desktop\Groceries list VB\Groceries list\obj\Debug\Groceries list.vbproj.AssemblyReference.cache
+C:\Users\oudom\OneDrive\Desktop\Groceries list VB\Groceries list\obj\Debug\Groceries list.vbproj.SuggestedBindingRedirects.cache
+C:\Users\oudom\OneDrive\Desktop\Groceries list VB\Groceries list\obj\Debug\Groceries list.exe
+C:\Users\oudom\OneDrive\Desktop\Groceries list VB\Groceries list\obj\Debug\Groceries list.xml
+C:\Users\oudom\OneDrive\Desktop\Groceries list VB\Groceries list\obj\Debug\Groceries list.pdb
